@@ -1,0 +1,902 @@
+Iteration 1
+Frequency test: 0.268763
+Block frequency test: 0.810673
+Spectral analysis test: 0.37054
+Maurer statistical test: 0.906599
+Cumulative test (forward): 0.522346
+Cumulative test (backward): 0.475351
+All tests are passed
+
+Iteration 2
+Frequency test: 0.96785
+Block frequency test: 0.82141
+Spectral analysis test: 0.721176
+Maurer statistical test: 0.756039
+Cumulative test (forward): 0.99406
+Cumulative test (backward): 0.987423
+All tests are passed
+
+Iteration 3
+Frequency test: 0.519921
+Block frequency test: 0.30394
+Spectral analysis test: 0.210443
+Maurer statistical test: 0.786111
+Cumulative test (forward): 0.825337
+Cumulative test (backward): 0.618722
+All tests are passed
+
+Iteration 4
+Frequency test: 0.809459
+Block frequency test: 0.833262
+Spectral analysis test: 0.666098
+Maurer statistical test: 0.239692
+Cumulative test (forward): 0.777707
+Cumulative test (backward): 0.883368
+All tests are passed
+
+Iteration 5
+Frequency test: 0.0248094
+Block frequency test: 0.589514
+Spectral analysis test: 0.0403177
+Maurer statistical test: 0.498617
+Cumulative test (forward): 0.0242516
+Cumulative test (backward): 0.0233448
+All tests are passed
+
+Iteration 6
+Frequency test: 0.0514055
+Block frequency test: 0.679152
+Spectral analysis test: 0.150638
+Maurer statistical test: 0.750919
+Cumulative test (forward): 0.0968693
+Cumulative test (backward): 0.0742202
+All tests are passed
+
+Iteration 7
+Frequency test: 0.949257
+Block frequency test: 0.156436
+Spectral analysis test: 0.889047
+Maurer statistical test: 0.558797
+Cumulative test (forward): 0.690705
+Cumulative test (backward): 0.750431
+All tests are passed
+
+Iteration 8
+Frequency test: 0.13404
+Block frequency test: 0.195835
+Spectral analysis test: 0.716324
+Maurer statistical test: 0.760164
+Cumulative test (forward): 0.0963874
+Cumulative test (backward): 0.155743
+All tests are passed
+
+Iteration 9
+Frequency test: 0.181639
+Block frequency test: 0.417799
+Spectral analysis test: 0.820338
+Maurer statistical test: 0.602794
+Cumulative test (forward): 0.357651
+Cumulative test (backward): 0.292167
+All tests are passed
+
+Iteration 10
+Frequency test: 0.783267
+Block frequency test: 0.792113
+Spectral analysis test: 0.353456
+Maurer statistical test: 0.730769
+Cumulative test (forward): 0.721916
+Cumulative test (backward): 0.478696
+All tests are passed
+
+Iteration 11
+Frequency test: 0.712573
+Block frequency test: 0.520078
+Spectral analysis test: 0.685071
+Maurer statistical test: 0.0660551
+Cumulative test (forward): 0.164397
+Cumulative test (backward): 0.341503
+All tests are passed
+
+Iteration 12
+Frequency test: 0.853578
+Block frequency test: 0.780585
+Spectral analysis test: 0.216411
+Maurer statistical test: 0.430082
+Cumulative test (forward): 0.956444
+Cumulative test (backward): 0.998831
+All tests are passed
+
+Iteration 13
+Frequency test: 0.454388
+Block frequency test: 0.514873
+Spectral analysis test: 0.685071
+Maurer statistical test: 0.221176
+Cumulative test (forward): 0.381951
+Cumulative test (backward): 0.53183
+All tests are passed
+
+Iteration 14
+Frequency test: 0.508973
+Block frequency test: 0.358466
+Spectral analysis test: 0.0786658
+Maurer statistical test: 0.184394
+Cumulative test (forward): 0.820652
+Cumulative test (backward): 0.54021
+All tests are passed
+
+Iteration 15
+Frequency test: 0.844713
+Block frequency test: 0.793613
+Spectral analysis test: 0.800218
+Maurer statistical test: 0.304901
+Cumulative test (forward): 0.734533
+Cumulative test (backward): 0.903743
+All tests are passed
+
+Iteration 16
+Frequency test: 0.207901
+Block frequency test: 0.156027
+Spectral analysis test: 0.807748
+Maurer statistical test: 0.192175
+Cumulative test (forward): 0.103065
+Cumulative test (backward): 0.396254
+All tests are passed
+
+Iteration 17
+Frequency test: 0.624617
+Block frequency test: 0.426303
+Spectral analysis test: 0.0372582
+Maurer statistical test: 0.2652
+Cumulative test (forward): 0.307768
+Cumulative test (backward): 0.688055
+All tests are passed
+
+Iteration 18
+Frequency test: 0.0622318
+Block frequency test: 0.320396
+Spectral analysis test: 0.559222
+Maurer statistical test: 0.553412
+Cumulative test (forward): 0.121517
+Cumulative test (backward): 0.0583041
+All tests are passed
+
+Iteration 19
+Frequency test: 0.878607
+Block frequency test: 0.430203
+Spectral analysis test: 0.438092
+Maurer statistical test: 0.919463
+Cumulative test (forward): 0.488254
+Cumulative test (backward): 0.376004
+All tests are passed
+
+Iteration 20
+Frequency test: 0.581746
+Block frequency test: 0.0527797
+Spectral analysis test: 0.15249
+Maurer statistical test: 0.332722
+Cumulative test (forward): 0.927007
+Cumulative test (backward): 0.476743
+All tests are passed
+
+Iteration 21
+Frequency test: 0.854688
+Block frequency test: 0.245738
+Spectral analysis test: 0.565789
+Maurer statistical test: 0.645889
+Cumulative test (forward): 0.768874
+Cumulative test (backward): 0.916334
+All tests are passed
+
+Iteration 22
+Frequency test: 0.448863
+Block frequency test: 0.585295
+Spectral analysis test: 0.559222
+Maurer statistical test: 0.3442
+Cumulative test (forward): 0.541113
+Cumulative test (backward): 0.151266
+All tests are passed
+
+Iteration 23
+Frequency test: 0.69473
+Block frequency test: 0.575353
+Spectral analysis test: 0.111157
+Maurer statistical test: 0.417088
+Cumulative test (forward): 0.856588
+Cumulative test (backward): 0.653778
+All tests are passed
+
+Iteration 24
+Frequency test: 0.519921
+Block frequency test: 0.871872
+Spectral analysis test: 0.557041
+Maurer statistical test: 0.645895
+Cumulative test (forward): 0.543221
+Cumulative test (backward): 0.633895
+All tests are passed
+
+Iteration 25
+Frequency test: 0.11581
+Block frequency test: 0.200773
+Spectral analysis test: 0.617327
+Maurer statistical test: 0.505726
+Cumulative test (forward): 0.22852
+Cumulative test (backward): 0.20956
+All tests are passed
+
+Iteration 26
+Frequency test: 0.521757
+Block frequency test: 0.285033
+Spectral analysis test: 0.807748
+Maurer statistical test: 0.315477
+Cumulative test (forward): 0.726234
+Cumulative test (backward): 0.670538
+All tests are passed
+
+Iteration 27
+Frequency test: 0.623116
+Block frequency test: 0.749862
+Spectral analysis test: 0.0435877
+Maurer statistical test: 0.649517
+Cumulative test (forward): 0.661323
+Cumulative test (backward): 0.290407
+All tests are passed
+
+Iteration 28
+Frequency test: 0.179567
+Block frequency test: 0.610764
+Spectral analysis test: 0.663741
+Maurer statistical test: 0.224
+Cumulative test (forward): 0.265324
+Cumulative test (backward): 0.151732
+All tests are passed
+
+Iteration 29
+Frequency test: 0.611166
+Block frequency test: 0.943335
+Spectral analysis test: 0.730914
+Maurer statistical test: 0.71715
+Cumulative test (forward): 0.775421
+Cumulative test (backward): 0.888268
+All tests are passed
+
+Iteration 30
+Frequency test: 0.549698
+Block frequency test: 0.76076
+Spectral analysis test: 0.825387
+Maurer statistical test: 0.0110133
+Cumulative test (forward): 0.468708
+Cumulative test (backward): 0.442482
+All tests are passed
+
+Iteration 31
+Frequency test: 0.776213
+Block frequency test: 0.448278
+Spectral analysis test: 0.147893
+Maurer statistical test: 0.875422
+Cumulative test (forward): 0.402676
+Cumulative test (backward): 0.236738
+All tests are passed
+
+Iteration 32
+Frequency test: 0.615635
+Block frequency test: 0.485178
+Spectral analysis test: 0.200001
+Maurer statistical test: 0.0461293
+Cumulative test (forward): 0.940083
+Cumulative test (backward): 0.759341
+All tests are passed
+
+Iteration 33
+Frequency test: 0.678607
+Block frequency test: 0.174408
+Spectral analysis test: 0.336879
+Maurer statistical test: 0.484693
+Cumulative test (forward): 0.345488
+Cumulative test (backward): 0.676477
+All tests are passed
+
+Iteration 34
+Frequency test: 0.246766
+Block frequency test: 0.214269
+Spectral analysis test: 0.563596
+Maurer statistical test: 0.957457
+Cumulative test (forward): 0.235241
+Cumulative test (backward): 0.294133
+All tests are passed
+
+Iteration 35
+Frequency test: 0.0786498
+Block frequency test: 0.382097
+Spectral analysis test: 0.652007
+Maurer statistical test: 0.944987
+Cumulative test (forward): 0.11997
+Cumulative test (backward): 0.0700818
+All tests are passed
+
+Iteration 36
+Frequency test: 0.165553
+Block frequency test: 0.510827
+Spectral analysis test: 0.365362
+Maurer statistical test: 0.365572
+Cumulative test (forward): 0.24144
+Cumulative test (backward): 0.254571
+All tests are passed
+
+Iteration 37
+Frequency test: 0.326713
+Block frequency test: 0.849986
+Spectral analysis test: 0.866025
+Maurer statistical test: 0.52532
+Cumulative test (forward): 0.615833
+Cumulative test (backward): 0.415233
+All tests are passed
+
+Iteration 38
+Frequency test: 0.271528
+Block frequency test: 0.80909
+Spectral analysis test: 0.110431
+Maurer statistical test: 0.998297
+Cumulative test (forward): 0.50368
+Cumulative test (backward): 0.173828
+All tests are passed
+
+Iteration 39
+Frequency test: 0.603256
+Block frequency test: 0.516506
+Spectral analysis test: 0.375764
+Maurer statistical test: 0.734555
+Cumulative test (forward): 0.776401
+Cumulative test (backward): 0.747455
+All tests are passed
+
+Iteration 40
+Frequency test: 0.00178412
+Block frequency test: 0.0677502
+Spectral analysis test: 0.386346
+Maurer statistical test: 0.662149
+Cumulative test (forward): 0.00167119
+Cumulative test (backward): 0.00352136
+One or more of the tests failed
+
+Iteration 41
+Frequency test: 0.624116
+Block frequency test: 0.437193
+Spectral analysis test: 0.377515
+Maurer statistical test: 0.225882
+Cumulative test (forward): 0.772478
+Cumulative test (backward): 0.745139
+All tests are passed
+
+Iteration 42
+Frequency test: 0.178196
+Block frequency test: 0.103675
+Spectral analysis test: 0.992234
+Maurer statistical test: 0.148051
+Cumulative test (forward): 0.259367
+Cumulative test (backward): 0.277365
+All tests are passed
+
+Iteration 43
+Frequency test: 0.526363
+Block frequency test: 0.116362
+Spectral analysis test: 0.395303
+Maurer statistical test: 0.513961
+Cumulative test (forward): 0.502527
+Cumulative test (backward): 0.150337
+All tests are passed
+
+Iteration 44
+Frequency test: 0.160225
+Block frequency test: 0.328697
+Spectral analysis test: 0.000536566
+Maurer statistical test: 0.894117
+Cumulative test (forward): 0.313726
+Cumulative test (backward): 0.114682
+One or more of the tests failed
+
+Iteration 45
+Frequency test: 0.699437
+Block frequency test: 0.320613
+Spectral analysis test: 0.858375
+Maurer statistical test: 0.672606
+Cumulative test (forward): 0.86505
+Cumulative test (backward): 0.517641
+All tests are passed
+
+Iteration 46
+Frequency test: 0.922827
+Block frequency test: 0.17113
+Spectral analysis test: 0.356832
+Maurer statistical test: 0.995943
+Cumulative test (forward): 0.340842
+Cumulative test (backward): 0.284404
+All tests are passed
+
+Iteration 47
+Frequency test: 0.382898
+Block frequency test: 0.973692
+Spectral analysis test: 0.064411
+Maurer statistical test: 0.0282166
+Cumulative test (forward): 0.731878
+Cumulative test (backward): 0.486558
+All tests are passed
+
+Iteration 48
+Frequency test: 0.335508
+Block frequency test: 0.369603
+Spectral analysis test: 0.355142
+Maurer statistical test: 0.418249
+Cumulative test (forward): 0.60688
+Cumulative test (backward): 0.463765
+All tests are passed
+
+Iteration 49
+Frequency test: 0.966722
+Block frequency test: 0.999942
+Spectral analysis test: 0.127289
+Maurer statistical test: 0.196856
+Cumulative test (forward): 0.971731
+Cumulative test (backward): 0.953288
+All tests are passed
+
+Iteration 50
+Frequency test: 0.392611
+Block frequency test: 0.447057
+Spectral analysis test: 0.927617
+Maurer statistical test: 0.215552
+Cumulative test (forward): 0.526187
+Cumulative test (backward): 0.625807
+All tests are passed
+
+Iteration 51
+Frequency test: 0.79961
+Block frequency test: 0.757211
+Spectral analysis test: 0.956015
+Maurer statistical test: 0.154092
+Cumulative test (forward): 0.973822
+Cumulative test (backward): 0.994649
+All tests are passed
+
+Iteration 52
+Frequency test: 0.272763
+Block frequency test: 0.809634
+Spectral analysis test: 0.9586
+Maurer statistical test: 0.234269
+Cumulative test (forward): 0.434313
+Cumulative test (backward): 0.150917
+All tests are passed
+
+Iteration 53
+Frequency test: 0.10463
+Block frequency test: 0.121544
+Spectral analysis test: 0.237614
+Maurer statistical test: 0.590646
+Cumulative test (forward): 0.0402231
+Cumulative test (backward): 0.145423
+All tests are passed
+
+Iteration 54
+Frequency test: 0.40886
+Block frequency test: 0.330266
+Spectral analysis test: 0.400736
+Maurer statistical test: 0.804426
+Cumulative test (forward): 0.781292
+Cumulative test (backward): 0.277177
+All tests are passed
+
+Iteration 55
+Frequency test: 0.673437
+Block frequency test: 0.216722
+Spectral analysis test: 0.156245
+Maurer statistical test: 0.588373
+Cumulative test (forward): 0.742489
+Cumulative test (backward): 0.995547
+All tests are passed
+
+Iteration 56
+Frequency test: 0.81824
+Block frequency test: 0.933403
+Spectral analysis test: 0.102691
+Maurer statistical test: 0.768631
+Cumulative test (forward): 0.95848
+Cumulative test (backward): 0.999393
+All tests are passed
+
+Iteration 57
+Frequency test: 0.317384
+Block frequency test: 0.405914
+Spectral analysis test: 0.226213
+Maurer statistical test: 0.729605
+Cumulative test (forward): 0.609432
+Cumulative test (backward): 0.242626
+All tests are passed
+
+Iteration 58
+Frequency test: 0.212015
+Block frequency test: 0.723185
+Spectral analysis test: 0.896743
+Maurer statistical test: 0.79955
+Cumulative test (forward): 0.416503
+Cumulative test (backward): 0.0956684
+All tests are passed
+
+Iteration 59
+Frequency test: 0.217503
+Block frequency test: 0.632602
+Spectral analysis test: 0.0384575
+Maurer statistical test: 0.0161649
+Cumulative test (forward): 0.309608
+Cumulative test (backward): 0.415995
+All tests are passed
+
+Iteration 60
+Frequency test: 0.51763
+Block frequency test: 0.367122
+Spectral analysis test: 0.95343
+Maurer statistical test: 0.985082
+Cumulative test (forward): 0.63357
+Cumulative test (backward): 0.536011
+All tests are passed
+
+Iteration 61
+Frequency test: 0.807816
+Block frequency test: 0.30903
+Spectral analysis test: 0.0200049
+Maurer statistical test: 0.805069
+Cumulative test (forward): 0.431179
+Cumulative test (backward): 0.277177
+All tests are passed
+
+Iteration 62
+Frequency test: 0.877492
+Block frequency test: 0.343538
+Spectral analysis test: 0.013305
+Maurer statistical test: 0.439134
+Cumulative test (forward): 0.617437
+Cumulative test (backward): 0.48543
+All tests are passed
+
+Iteration 63
+Frequency test: 0.404861
+Block frequency test: 0.0879857
+Spectral analysis test: 0.277088
+Maurer statistical test: 0.504861
+Cumulative test (forward): 0.676808
+Cumulative test (backward): 0.26387
+All tests are passed
+
+Iteration 64
+Frequency test: 0.283414
+Block frequency test: 0.598882
+Spectral analysis test: 0.868577
+Maurer statistical test: 0.606325
+Cumulative test (forward): 0.31125
+Cumulative test (backward): 0.234083
+All tests are passed
+
+Iteration 65
+Frequency test: 0.128618
+Block frequency test: 0.814302
+Spectral analysis test: 0.303722
+Maurer statistical test: 0.194673
+Cumulative test (forward): 0.254042
+Cumulative test (backward): 0.208503
+All tests are passed
+
+Iteration 66
+Frequency test: 0.516715
+Block frequency test: 0.786976
+Spectral analysis test: 0.367083
+Maurer statistical test: 0.443099
+Cumulative test (forward): 0.869074
+Cumulative test (backward): 0.406415
+All tests are passed
+
+Iteration 67
+Frequency test: 0.593435
+Block frequency test: 0.0197508
+Spectral analysis test: 0.820338
+Maurer statistical test: 0.193778
+Cumulative test (forward): 0.149297
+Cumulative test (backward): 0.423154
+All tests are passed
+
+Iteration 68
+Frequency test: 0.631138
+Block frequency test: 0.677155
+Spectral analysis test: 0.197733
+Maurer statistical test: 0.0620683
+Cumulative test (forward): 0.920357
+Cumulative test (backward): 0.501376
+All tests are passed
+
+Iteration 69
+Frequency test: 0.984768
+Block frequency test: 0.493102
+Spectral analysis test: 0.550524
+Maurer statistical test: 0.490015
+Cumulative test (forward): 0.928572
+Cumulative test (backward): 0.916095
+All tests are passed
+
+Iteration 70
+Frequency test: 0.0917092
+Block frequency test: 0.152474
+Spectral analysis test: 0.565789
+Maurer statistical test: 0.168497
+Cumulative test (forward): 0.156699
+Cumulative test (backward): 0.129096
+All tests are passed
+
+Iteration 71
+Frequency test: 0.240193
+Block frequency test: 0.979999
+Spectral analysis test: 0.436178
+Maurer statistical test: 0.783633
+Cumulative test (forward): 0.371763
+Cumulative test (backward): 0.393803
+All tests are passed
+
+Iteration 72
+Frequency test: 0.460811
+Block frequency test: 0.573013
+Spectral analysis test: 0.723607
+Maurer statistical test: 0.497298
+Cumulative test (forward): 0.623549
+Cumulative test (backward): 0.538108
+All tests are passed
+
+Iteration 73
+Frequency test: 0.0273719
+Block frequency test: 0.580116
+Spectral analysis test: 0.0037642
+Maurer statistical test: 0.637973
+Cumulative test (forward): 0.0481825
+Cumulative test (backward): 0.0289564
+One or more of the tests failed
+
+Iteration 74
+Frequency test: 0.297284
+Block frequency test: 0.773806
+Spectral analysis test: 0.0165014
+Maurer statistical test: 0.803204
+Cumulative test (forward): 0.423411
+Cumulative test (backward): 0.176318
+All tests are passed
+
+Iteration 75
+Frequency test: 0.191784
+Block frequency test: 0.798918
+Spectral analysis test: 0.927617
+Maurer statistical test: 0.849177
+Cumulative test (forward): 0.225777
+Cumulative test (backward): 0.276424
+All tests are passed
+
+Iteration 76
+Frequency test: 0.715211
+Block frequency test: 0.395535
+Spectral analysis test: 0.656691
+Maurer statistical test: 0.316191
+Cumulative test (forward): 0.258831
+Cumulative test (backward): 0.119874
+All tests are passed
+
+Iteration 77
+Frequency test: 0.642747
+Block frequency test: 0.593542
+Spectral analysis test: 0.192145
+Maurer statistical test: 0.617289
+Cumulative test (forward): 0.766577
+Cumulative test (backward): 0.928572
+All tests are passed
+
+Iteration 78
+Frequency test: 0.891448
+Block frequency test: 0.504458
+Spectral analysis test: 0.186674
+Maurer statistical test: 0.611124
+Cumulative test (forward): 0.680112
+Cumulative test (backward): 0.807068
+All tests are passed
+
+Iteration 79
+Frequency test: 0.343733
+Block frequency test: 0.331939
+Spectral analysis test: 0.58348
+Maurer statistical test: 0.28736
+Cumulative test (forward): 0.220528
+Cumulative test (backward): 0.332768
+All tests are passed
+
+Iteration 80
+Frequency test: 0.166417
+Block frequency test: 0.338652
+Spectral analysis test: 0.979293
+Maurer statistical test: 0.552352
+Cumulative test (forward): 0.291188
+Cumulative test (backward): 0.168296
+All tests are passed
+
+Iteration 81
+Frequency test: 0.11483
+Block frequency test: 0.661813
+Spectral analysis test: 0.415444
+Maurer statistical test: 0.518824
+Cumulative test (forward): 0.17214
+Cumulative test (backward): 0.19874
+All tests are passed
+
+Iteration 82
+Frequency test: 0.935752
+Block frequency test: 0.780574
+Spectral analysis test: 0.422915
+Maurer statistical test: 0.950534
+Cumulative test (forward): 0.860402
+Cumulative test (backward): 0.920824
+All tests are passed
+
+Iteration 83
+Frequency test: 0.0682083
+Block frequency test: 0.578859
+Spectral analysis test: 0.654347
+Maurer statistical test: 0.832218
+Cumulative test (forward): 0.0440057
+Cumulative test (backward): 0.12646
+All tests are passed
+
+Iteration 84
+Frequency test: 0.633654
+Block frequency test: 0.843967
+Spectral analysis test: 0.497717
+Maurer statistical test: 0.485777
+Cumulative test (forward): 0.915855
+Cumulative test (backward): 0.498791
+All tests are passed
+
+Iteration 85
+Frequency test: 0.369926
+Block frequency test: 0.831786
+Spectral analysis test: 0.752982
+Maurer statistical test: 0.758582
+Cumulative test (forward): 0.470639
+Cumulative test (backward): 0.216926
+All tests are passed
+
+Iteration 86
+Frequency test: 0.47994
+Block frequency test: 0.393337
+Spectral analysis test: 0.810262
+Maurer statistical test: 0.937683
+Cumulative test (forward): 0.822842
+Cumulative test (backward): 0.476186
+All tests are passed
+
+Iteration 87
+Frequency test: 0.394179
+Block frequency test: 0.342405
+Spectral analysis test: 0.0598675
+Maurer statistical test: 0.40028
+Cumulative test (forward): 0.237906
+Cumulative test (backward): 0.764934
+All tests are passed
+
+Iteration 88
+Frequency test: 0.746583
+Block frequency test: 0.796739
+Spectral analysis test: 0.271393
+Maurer statistical test: 0.55466
+Cumulative test (forward): 0.698997
+Cumulative test (backward): 0.956615
+All tests are passed
+
+Iteration 89
+Frequency test: 0.0662005
+Block frequency test: 0.662782
+Spectral analysis test: 0.282865
+Maurer statistical test: 0.675049
+Cumulative test (forward): 0.0531797
+Cumulative test (backward): 0.0894732
+All tests are passed
+
+Iteration 90
+Frequency test: 0.0343734
+Block frequency test: 0.119115
+Spectral analysis test: 0.520616
+Maurer statistical test: 0.325703
+Cumulative test (forward): 0.0154586
+Cumulative test (backward): 0.0188166
+All tests are passed
+
+Iteration 91
+Frequency test: 0.447594
+Block frequency test: 0.944234
+Spectral analysis test: 0.624199
+Maurer statistical test: 0.989344
+Cumulative test (forward): 0.828133
+Cumulative test (backward): 0.636166
+All tests are passed
+
+Iteration 92
+Frequency test: 0.0378879
+Block frequency test: 0.458451
+Spectral analysis test: 0.845655
+Maurer statistical test: 0.278379
+Cumulative test (forward): 0.0512322
+Cumulative test (backward): 0.0304958
+All tests are passed
+
+Iteration 93
+Frequency test: 0.579808
+Block frequency test: 0.77706
+Spectral analysis test: 0.912163
+Maurer statistical test: 0.591768
+Cumulative test (forward): 0.755384
+Cumulative test (backward): 0.796184
+All tests are passed
+
+Iteration 94
+Frequency test: 0.974052
+Block frequency test: 0.351086
+Spectral analysis test: 0.0504192
+Maurer statistical test: 0.0574186
+Cumulative test (forward): 0.944284
+Cumulative test (backward): 0.960786
+All tests are passed
+
+Iteration 95
+Frequency test: 0.406458
+Block frequency test: 0.673225
+Spectral analysis test: 0.124083
+Maurer statistical test: 0.684635
+Cumulative test (forward): 0.708959
+Cumulative test (backward): 0.389662
+All tests are passed
+
+Iteration 96
+Frequency test: 0.163406
+Block frequency test: 0.259893
+Spectral analysis test: 0.75052
+Maurer statistical test: 0.397362
+Cumulative test (forward): 0.16957
+Cumulative test (backward): 0.295515
+All tests are passed
+
+Iteration 97
+Frequency test: 0.989845
+Block frequency test: 0.171349
+Spectral analysis test: 0.610489
+Maurer statistical test: 0.482049
+Cumulative test (forward): 0.586318
+Cumulative test (backward): 0.575074
+All tests are passed
+
+Iteration 98
+Frequency test: 0.569686
+Block frequency test: 0.178321
+Spectral analysis test: 0.0485397
+Maurer statistical test: 0.0531696
+Cumulative test (forward): 0.590719
+Cumulative test (backward): 0.214295
+All tests are passed
+
+Iteration 99
+Frequency test: 0.913286
+Block frequency test: 0.712586
+Spectral analysis test: 0.246758
+Maurer statistical test: 0.507351
+Cumulative test (forward): 0.985938
+Cumulative test (backward): 0.96711
+All tests are passed
+
+Iteration 100
+Frequency test: 0.0313077
+Block frequency test: 0.915015
+Spectral analysis test: 0.563596
+Maurer statistical test: 0.589406
+Cumulative test (forward): 0.0398459
+Cumulative test (backward): 0.00918129
+One or more of the tests failed
+
+Fails: 4
+Success: 96
