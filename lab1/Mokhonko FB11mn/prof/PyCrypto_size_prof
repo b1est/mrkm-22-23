@@ -1,0 +1,18 @@
+Filename: PyCrypto_size.py
+
+Line #    Mem usage    Increment  Occurences   Line Contents
+============================================================
+     6     40.8 MiB     40.8 MiB           1   @profile
+     7                                         def memProf():
+     8     40.8 MiB      0.0 MiB           1       msg = bytes(Settings.MESSAGE, 'utf-8')
+     9    492.8 MiB      0.0 MiB        1001       for i in range(Settings.NUM_TESTS):
+    10                                                 # згенерувати відкритий/закритий ключ
+    11    492.8 MiB    443.8 MiB        1000           key = RSA.generate(Settings.CRYPTO_RSA_KEY_LEN, e=17)
+    12                                         
+    13                                                 # зашифрувати повідомлення
+    14    492.8 MiB      0.0 MiB        1000           encryptor = PKCS1_OAEP.new(key.publickey())
+    15    492.8 MiB      3.1 MiB        1000           encrypted = encryptor.encrypt(msg)
+    16                                         
+    17                                                 # розшифрувати повідомлення
+    18    492.8 MiB      0.0 MiB        1000           decryptor = PKCS1_OAEP.new(key)
+    19    492.8 MiB      5.2 MiB        1000           decrypted = decryptor.decrypt(encrypted)
