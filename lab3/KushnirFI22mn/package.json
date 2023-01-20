@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jsbn": "^1.1.0",
+    "openpgp": "^5.5.0",
+    "secure-random": "^1.1.2"
+  }
+}
